@@ -20,8 +20,8 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-        {to: 'blog', label: 'Pricing', position: 'left'},
         {to: 'blog', label: 'Blog', position: 'left'},
+        {to: 'pricing', label: 'Pricing', position: 'left'},
         {
           href: 'https://dashboard.findi.io',
           label: 'Dashboard',
